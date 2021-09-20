@@ -1,0 +1,20 @@
+﻿  Board.cpp
+C:\Users\thatb\OneDrive\Documents\GitHub\ChessDemo\Chess\Chess\Game.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Controls.cpp
+C:\Users\thatb\OneDrive\Documents\GitHub\ChessDemo\Chess\Chess\Controls.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Piece.cpp
+C:\Users\thatb\OneDrive\Documents\GitHub\ChessDemo\Chess\Chess\Piece.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PieceSet.cpp
+C:\Users\thatb\OneDrive\Documents\GitHub\ChessDemo\Chess\Chess\Piece.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Render.cpp
+C:\Users\thatb\OneDrive\Documents\GitHub\ChessDemo\Chess\Chess\ImageManager.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+C:\Users\thatb\OneDrive\Documents\GitHub\ChessDemo\Chess\Chess\Game.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+C:\Users\thatb\OneDrive\Documents\GitHub\ChessDemo\Chess\Chess\Main.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ImageManager.cpp
+C:\Users\thatb\OneDrive\Documents\GitHub\ChessDemo\Chess\Chess\ImageManager.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  gTest.cpp
+  SpriteMap.cpp
+C:\Users\thatb\OneDrive\Documents\GitHub\ChessDemo\Chess\Chess\SpriteMap.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
