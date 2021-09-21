@@ -1,0 +1,20 @@
+﻿  Board.cpp
+C:\Users\thatb\source\repos\Chess\Chess\Chess\Board.cpp(24,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\thatb\source\repos\Chess\Chess\Chess\Board.cpp(43,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thatb\source\repos\Chess\Chess\Chess\Board.cpp(43,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Controls.cpp
+  Piece.cpp
+  PieceSet.cpp
+  Render.cpp
+  Game.cpp
+C:\Users\thatb\source\repos\Chess\Chess\Chess\Game.cpp(64,63): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  Main.cpp
+  ImageManager.cpp
+  gTest.cpp
+  SpriteMap.cpp
+  Generating Code...
+  Chess.vcxproj -> C:\Users\thatb\source\repos\Chess\Chess\Debug\Chess.exe
